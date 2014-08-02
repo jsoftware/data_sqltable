@@ -10,9 +10,9 @@ This allows accessing database without low-level knowledge of odbc api.
 This package is the result of a consultation work done for Anssi Seppälä.  Significant changes were also made in data/odbc addon to support this package.  This work is released to the public by the request and permission of Anssi Seppälä.  Thank you, Anssi.
 )
 
-VERSION=: '1.0.0'
+VERSION=: '1.0.1'
 
-RELEASE=: 'j802'
+RELEASE=: 'j802 j803'
 
 PLATFORMS=: 'win linux darwin'
 
