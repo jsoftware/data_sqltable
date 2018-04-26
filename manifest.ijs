@@ -12,7 +12,9 @@ This package is the result of a consultation work done for Anssi Seppälä.  Sig
 
 VERSION=: '1.0.5'
 
-RELEASE=: 'j802 j803 j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'data/sqltable'
 
 PLATFORMS=: 'win linux darwin'
 
