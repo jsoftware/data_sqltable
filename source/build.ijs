@@ -1,6 +1,6 @@
 NB. build
 
-writesourcex_jp_ '~Addons/data/sqltable/source/source';'~Addons/data/sqltable/sqltable.ijs'
+writesourcex_jp_ '~Addons/data/sqltable/source';'~Addons/data/sqltable/sqltable.ijs'
 
 (jpath '~addons/data/sqltable/sqltable.ijs') (fcopynew ::0:) jpath '~Addons/data/sqltable/sqltable.ijs'
 
